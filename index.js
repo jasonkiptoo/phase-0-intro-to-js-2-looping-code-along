@@ -1,6 +1,6 @@
 // Code your solutions in this file
 const eventsArray = [];
-
+///comments
 function writeCards(names, eventName){
 
     for (let i = 0; i < names.length; i++) {
@@ -14,7 +14,7 @@ function writeCards(names, eventName){
 }
 
 
-
+///countdown function
 function countDown (){
 
 let count=10;
@@ -26,7 +26,7 @@ let count=10;
         count--;
         
       }
-    
+    //   countDown(10)
       
    
 
